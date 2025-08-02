@@ -1,0 +1,66 @@
+# Flutter/Dart related
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+build/
+.dart_server/
+.idea/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+.history/
+
+# macOS related
+.DS_Store
+
+# Android related
+**/android/.gradle
+**/android/captures/
+**/android/local.properties
+**/android/.idea
+
+# iOS related
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/.symlinks
+**/ios/Pods
+**/ios/Runner.xcworkspace
+**/ios/build/
+**/ios/.generated/
+
+# Web related
+**/web/generated_plugin_registrant.dart
+
+# Linux related
+linux/flutter/ephemeral/
+linux/build/
+
+# Windows related
+windows/flutter/ephemeral/
+windows/build/
+
+# Fuchsia related
+.fuchsia/
+
+# Coverage related
+coverage/
+
+# Firebase generated files (if used)
+**/ios/Runner/GoogleService-Info.plist
+**/android/app/google-services.json
+
+# Other
+*.log
+*.lock
+*.tmp
+*.swp
+*.swo
