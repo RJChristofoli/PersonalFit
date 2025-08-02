@@ -56,12 +56,17 @@ flutter emulators --launch <nome_do_emulador>
 flutter run
 
 
-https://github.com/user-attachments/assets/99750e00-c72c-4490-9bcd-c6afd1334d68
 
 # OBS: Por limitações do emulador (não identifica nenhum navegador no aparelho, mesmo estando baixado e configurado), não foi possível executar o algoritmo de abertura de link do whatsapp.
 
+https://github.com/user-attachments/assets/44453a61-dd37-4fd4-9016-85f20872fd90
+
 :man_technologist: Autor
 Rafael Christofoli
+
+
+
+
 
 
 
